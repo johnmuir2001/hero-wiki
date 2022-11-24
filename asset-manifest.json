@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hero-wiki/static/css/main.4f789bc7.css",
+    "main.js": "/hero-wiki/static/js/main.feecda34.js",
+    "index.html": "/hero-wiki/index.html",
+    "main.4f789bc7.css.map": "/hero-wiki/static/css/main.4f789bc7.css.map",
+    "main.feecda34.js.map": "/hero-wiki/static/js/main.feecda34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f789bc7.css",
+    "static/js/main.feecda34.js"
+  ]
+}
